@@ -20,25 +20,36 @@ requerido para el cargo mencionado. Los conocimientos a evaluar son:
 *Validaciones y/o reglas de negocio:*
 
 ● Utilizar buenas prácticas para mostrar errores ocurridos dentro del sistema.
+
 ● Se deberá crear un modelo que permita gestionar menú, sub-menú y vista para cualquier usuario del sistema, independiente de su rol, la cual mediante un middleware controlar el acceso de un usuario a la vista.
+
 ● Generar Seeders de carga inicial, con los menús y submenús
 
 **2-** El usuario podrá subir documentos **PDF, XML, WORD, ETC.**, los cuales serán almacenados en Laravel, y que luego el usuario podrá revisar históricamente todos los archivos que están asociados a él y descargarlos.
 
+
 *Validaciones y/o reglas de negocio:*
 
 ● Si un usuario administrador posee permisos para visitar esta vista, podrá revisar todo los archivos históricos.
+
 ● El usuario administrador podrá subir archivos y asociar a qué persona se creará el nuevo registro.
+
 ● Un usuario normal solo podrá ver sus archivos históricos.
 
 ## PLUS
 
-- Utilizar algún cliente de git como Github, Gitlab o Bitbucket para visualizar el
+● Utilizar algún cliente de git como Github, Gitlab o Bitbucket para visualizar el
 proyecto.
+
 ● Crear un Readme para seguir los pasos para la ejecución de Seeders y migraciones.
+
 ● Crear imagen de Proyecto Laravel mediante un Dockerfile.
+
 ● Crear contenedor con el Proyecto Laravel y MySql 8.0.16 o superior a 8.
+
 ● Uso del Framework UI Bootstrap.
+
 ● Uso Eloquent o QueryBuilder.
+
 
 
