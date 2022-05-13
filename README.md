@@ -2,6 +2,7 @@
 
 Proyecto desarrollado por [Nector Cortés R.](https://github.com/nector95/) para la solución de la prueba técnica [Red Capital CL](https://redcapital.cl).
 
+
 ## INTRODUCCIÓN
 
 El propósito de la siguiente evaluación es validar el conocimiento específico y técnico
@@ -13,9 +14,11 @@ requerido para el cargo mencionado. Los conocimientos a evaluar son:
 - [GIT.](https://github.com).
 - [Docker | Docker-container.](https://www.docker.com).
 
+
 ## REQUERIMIENTOS
 
 **1-** Crear un login de usuario, el cual permitirá identificar el usuario según su **ROL y PERMISOS**.
+
 
 *Validaciones y/o reglas de negocio:*
 
@@ -28,6 +31,7 @@ requerido para el cargo mencionado. Los conocimientos a evaluar son:
 **2-** El usuario podrá subir documentos **PDF, XML, WORD, ETC.**, los cuales serán almacenados en Laravel, y que luego el usuario podrá revisar históricamente todos los archivos que están asociados a él y descargarlos.
 
 
+
 *Validaciones y/o reglas de negocio:*
 
 ● Si un usuario administrador posee permisos para visitar esta vista, podrá revisar todo los archivos históricos.
@@ -35,6 +39,7 @@ requerido para el cargo mencionado. Los conocimientos a evaluar son:
 ● El usuario administrador podrá subir archivos y asociar a qué persona se creará el nuevo registro.
 
 ● Un usuario normal solo podrá ver sus archivos históricos.
+
 
 ## PLUS
 
